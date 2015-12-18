@@ -61,9 +61,9 @@ function setup(){
 	garden.style("width", "1280px");
 	garden.style("height", "720px");
 
-	clouda = createImg("assets/clouda.png");
-	cloudb = createImg("assets/cloudb.png");
-	cloudc = createImg("assets/cloudc.png");
+	clouda = createImg("assets/Clouda.png");
+	cloudb = createImg("assets/Cloudb.png");
+	cloudc = createImg("assets/Cloudc.png");
 
 	//tittle
 	title = createImg('assets/Title.png');
