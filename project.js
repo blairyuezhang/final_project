@@ -565,14 +565,14 @@ function mixedC(){
 		coke.hide();
 		cokeHidden=true;
 		starA.show();
-		setTimeout(hideStarA, 1000);
+		setTimeout(hideStarA, 500);
 	}
 	if(waterClicked==true){
 		waterBG.hide();
 		water.hide();
 		waterHidden=true;
 		starA.show();
-		setTimeout(hideStarA, 1000);
+		setTimeout(hideStarA, 500);
 	}
 
 	envelopeBG.hide();
@@ -591,7 +591,7 @@ function paperC(){
 		envelope.hide();
 		envelopeHidden=true;
 		starB.show();
-		setTimeout(hideStarB, 1000);
+		setTimeout(hideStarB, 500);
 
 	}
 	if(newsClicked==true){
@@ -599,14 +599,14 @@ function paperC(){
 		news.hide();
 		newsHidden=true;
 		starB.show();
-		setTimeout(hideStarB, 1000);
+		setTimeout(hideStarB, 500);
 	}
 	if(cerealClicked==true){
 		cerealBG.hide();
 		cereal.hide();
 		cerealHidden=true;
 		starB.show();
-		setTimeout(hideStarB, 1000);
+		setTimeout(hideStarB, 500);
 	}
 
 	cokeBG.hide();
@@ -621,7 +621,7 @@ function landfillC(){
 		egg.hide();
 		eggHidden=true;
 		starC.show();
-		setTimeout(hideStarC, 1000);
+		setTimeout(hideStarC, 500);
 	}
 
 	cokeBG.hide();
